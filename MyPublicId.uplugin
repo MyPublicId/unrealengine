@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MyPublicId",
+	"Description": "Permits the use of MyPublicId user authentication for verified servers.",
+	"Category": "Other",
+	"CreatedBy": "Montana Tuska",
+	"CreatedByURL": "https://mypublicid.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MyPublicId",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
